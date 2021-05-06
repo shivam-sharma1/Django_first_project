@@ -1,0 +1,2 @@
+this is a test file and it is a static file.
+Never store sensitive info in static files. always store files which are meant to be publically available.
